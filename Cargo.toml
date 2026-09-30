@@ -1,9 +1,11 @@
 [package]
 name = "fenwick_tree"
 version = "0.1.0"
-description = "A Rust library for Fenwick_tree"
+description = "Fenwick Tree — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/fenwick_tree"
+repository = "https://github.com/SuperInstance/fenwick-tree"
 edition = "2021"
+
+keywords = ["fenwick-tree"]
 
 [dependencies]
